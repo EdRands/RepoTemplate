@@ -16,7 +16,7 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ### Changed
 
-- Use reference links in the [readme](README.md). Links which will be deleted when the template is used are not referenced for easier deletion.
+- Use reference links in the [readme](README.md). Links that will be deleted when the template is used are not referenced for easier deletion.
 - Include versions and GitHub comparisons in the [Changelog](CHANGELOG.md).
 
 ## [0.2.0] - 2019-12-25
