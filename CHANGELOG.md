@@ -8,6 +8,10 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ## [Unreleased]
 
+### Added
+
+- [gitattributes](.gitattributes) from [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate/blob/d6561f2c4792b10c181b62a17e78a064d0a27884/dist/.gitattributes).
+
 ## [0.2.2] - 2019-12-25
 
 ### Fixed
