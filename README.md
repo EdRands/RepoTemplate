@@ -2,7 +2,7 @@
 
 This is a starter template for my repositories.
 
-[![license-badge]][license]
+[![release-badge]][release] [![license-badge]][license]
 
 ## Usage
 
@@ -27,3 +27,5 @@ Refer to [Make a README](https://www.makeareadme.com/) and/or [The Documentation
 [license]: ./LICENSE (License)
 [changelog]: ./CHANGELOG (Changelog)
 [license-badge]: https://img.shields.io/github/license/EdRands/RepoTemplate?style=flat-square (License badge)
+[release]: https://github.com/EdRands/RepoTemplate/releases (Releases)
+[release-badge]: https://img.shields.io/github/v/release/EdRands/RepoTemplate?style=flat-square (Latest release badge)
