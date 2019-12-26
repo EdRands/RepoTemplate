@@ -25,7 +25,7 @@ This template is licensed under the terms of the [MIT license][license].
 Refer to [Make a README](https://www.makeareadme.com/) and/or [The Documentation Compendium](https://github.com/kylelobo/The-Documentation-Compendium/tree/master/en/README_TEMPLATES) for suggestions how to craft a quality README.
 
 [license]: ./LICENSE (License)
-[changelog]: ./CHANGELOG (Changelog)
+[changelog]: ./CHANGELOG.md (Changelog)
 [license-badge]: https://img.shields.io/github/license/EdRands/RepoTemplate?style=flat-square (License badge)
 [release]: https://github.com/EdRands/RepoTemplate/releases (Releases)
 [release-badge]: https://img.shields.io/github/v/release/EdRands/RepoTemplate?style=flat-square (Latest release badge)
