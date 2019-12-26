@@ -10,7 +10,7 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ## [0.2.1] - 2019-12-25
 
-## Added
+### Added
 
 - A version badge to the [Readme](README.md).
 
