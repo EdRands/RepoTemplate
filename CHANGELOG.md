@@ -8,6 +8,8 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ## [Unreleased]
 
+## [0.3.0] - 2019-12-26
+
 ### Added
 
 - [gitattributes](.gitattributes) from [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate/blob/d6561f2c4792b10c181b62a17e78a064d0a27884/dist/.gitattributes).
@@ -44,7 +46,8 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 - An [MIT license](LICENSE).
 - A [gitignore](.gitignore) powered by [gitignore.io](https://www.gitignore.io).
 
-[Unreleased]: https://github.com/EdRands/RepoTemplate/compare/v0.2.2...develop
+[Unreleased]: https://github.com/EdRands/RepoTemplate/compare/v0.3.0...develop
+[0.3.0]: https://github.com/EdRands/RepoTemplate/compare/v0.2.2...v0.3.0
 [0.2.2]: https://github.com/EdRands/RepoTemplate/compare/v0.2.1...v0.2.2
 [0.2.1]: https://github.com/EdRands/RepoTemplate/compare/v0.2.0...v0.2.1
 [0.2.0]: https://github.com/EdRands/RepoTemplate/compare/v0.1.0...v0.2.0
