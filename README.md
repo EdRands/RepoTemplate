@@ -2,6 +2,10 @@
 
 This is a starter template for my repositories.
 
+## Usage
+
+Refer to [GitHub's instructions on creating a repository from a template](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template).
+
 ## Contributing
 
 As this template is intend for my personal use, and is just getting started, I am not currently accepting contributions. However, I may be open to contributions in the future.
